@@ -289,7 +289,7 @@
   "@developers": {
     "description": "developers"
   },
-  "all": "tot",
+  "all": "Tot",
   "@all": {
     "description": "all"
   },
@@ -433,7 +433,7 @@
   "@gitlabStatus": {
     "description": "GitLab status"
   },
-  "reviewPermissions": "Verificați permisiunile",
+  "reviewPermissions": "Permisiuni de revizuit",
   "@reviewPermissions": {
     "description": "review Permissions"
   },
@@ -844,7 +844,7 @@
       }
     }
   },
-  "filesChanged": "{count,plural, =1{{count} file changed} alte {{count} files changed}}",
+  "filesChanged": "{count,plural, =1{{count} fișier modificat} other{{count} fișiere modificate}}",
   "@filesChanged": {
     "description": "no. of files changed",
     "placeholders": {
