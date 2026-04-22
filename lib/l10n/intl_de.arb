@@ -843,5 +843,14 @@
   "crossReferencedEventMessage": "verweist darauf",
   "@crossReferencedEventMessage": {
     "description": "cross referenced event"
+  },
+  "filesChanged": "{count,plural, =1{{count} Datei geändert} other{{count} Dateien geändert}}",
+  "@filesChanged": {
+    "description": "no. of files changed",
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
   }
 }
